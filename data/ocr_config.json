@@ -1,0 +1,12 @@
+{
+  "baidu_ocr": {
+    "app_id": "7520408",
+    "api_key": "vjRYwJs5ZWgyHJvf1OUFqyY5",
+    "secret_key": "6nmMfGEprQk9yILOwJfuHzS5KQMgNl21"
+  },
+  "tencent_ocr": null,
+  "tesseract": {
+    "enabled": false,
+    "lang": "chi_sim+eng"
+  }
+}

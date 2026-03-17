@@ -1,0 +1,81 @@
+{
+  "stocks": [
+    {
+      "code": "512400",
+      "name": "有色 ETF",
+      "cost": 2.3504,
+      "shares": 1900,
+      "threshold": 2.0,
+      "stop_profit": null,
+      "stop_loss": null,
+      "buy_reason": "",
+      "ignore_count": 0
+    },
+    {
+      "code": "513180",
+      "name": "恒指科技",
+      "cost": 0.7364,
+      "shares": 3400,
+      "threshold": 2.0,
+      "stop_profit": null,
+      "stop_loss": null,
+      "buy_reason": "",
+      "ignore_count": 0
+    },
+    {
+      "code": "603360",
+      "name": "百傲化学",
+      "cost": 23.0497,
+      "shares": 4320,
+      "threshold": 2.0,
+      "stop_profit": null,
+      "stop_loss": null,
+      "buy_reason": "",
+      "ignore_count": 0
+    },
+    {
+      "code": "000568",
+      "name": "泸州老窖",
+      "cost": 148.7453,
+      "shares": 100,
+      "threshold": 2.0,
+      "stop_profit": null,
+      "stop_loss": null,
+      "buy_reason": "",
+      "ignore_count": 0
+    },
+    {
+      "code": "000571",
+      "name": "新大洲 A",
+      "cost": 7.5613,
+      "shares": 1600,
+      "threshold": 2.0,
+      "stop_profit": null,
+      "stop_loss": null,
+      "buy_reason": "",
+      "ignore_count": 0
+    },
+    {
+      "code": "002572",
+      "name": "索菲亚",
+      "cost": 19.9886,
+      "shares": 100,
+      "threshold": 2.0,
+      "stop_profit": null,
+      "stop_loss": null,
+      "buy_reason": "",
+      "ignore_count": 0
+    },
+    {
+      "code": "601390",
+      "name": "中国中铁",
+      "shares": 200,
+      "cost": 5.8761,
+      "threshold": 2.0,
+      "stop_profit": null,
+      "stop_loss": null,
+      "buy_reason": "",
+      "ignore_count": 0
+    }
+  ]
+}
